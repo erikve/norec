@@ -1,3 +1,5 @@
+*NB:* this repo holds a legacy version of NoReC verson 1 for backward compatibility. The official [NoReC repo](https://github.com/ltgoslo/norec) now contains an expanded raw-text version of the corpus (NoReC version 2) with 8425 additional reviews.
+
 # NoReC: The Norwegian Review Corpus
 This repository distributes the Norwegian Review Corpus (NoReC), created for the purpose of training and evaluating models for document-level sentiment analysis. More than 35,000 full-text reviews (approx. 15 million tokens) have been collected from major Norwegian news sources and cover a range of different domains, including literature, movies, video games, restaurants, music and theater, in addition to product reviews across a range of categories. Each review is labeled with a manually assigned score of 1–6, as provided by the rating of the original author. 
 
